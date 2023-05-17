@@ -1,0 +1,14 @@
+.card{
+    height: 4em;
+    width: 4em;
+    border-radius: 0.2em;
+    padding: 1em;
+    background-color: #FAFAFC;
+    text-align: center;
+    
+}
+.card img{
+    position: relative;
+    top: 1em;
+    /* left: 1em; */
+}
